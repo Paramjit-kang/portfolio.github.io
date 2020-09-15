@@ -107,7 +107,7 @@ html {
 /* ------------------------- Animations ---------------------------- */
 
 .container {
-  width: 100%;
+  width: 99.9%;
   height: 100vh;
   margin: 0px auto;
   display: flex;
@@ -260,15 +260,15 @@ html {
 
 @keyframes slide-out-container {
   0% {
-    width: 100vw;
+    width: 99.9%;
   }
 
   40% {
-    width: 100vw;
+    width: 99.9%;
   }
 
   99.9% {
-    width: 0.1vw;
+    width: 0.1%;
   }
 
   100% {
